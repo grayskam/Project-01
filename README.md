@@ -1,7 +1,12 @@
 # Project-01
 
-# Your Name
+# Kameron Grays
 
-# Your Github username
+# grayskam
 
-# List the things you added for points
+1. # bullets variable
+2. # Shooting choices
+3. # Conditional state through text
+
+
+
